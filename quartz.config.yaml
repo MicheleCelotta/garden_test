@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: michelecelotta.github.io
+  baseUrl: michelecelotta.github.io/garden_test/
   ignorePatterns:
     - private
     - templates
