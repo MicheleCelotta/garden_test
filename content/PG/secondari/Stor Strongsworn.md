@@ -1,5 +1,5 @@
 ---
-tags: [ Astrea, Stor Strongsworn, Nizzai Wildstone, Luna, Neverwinter, PG ]
+tags: [ Astrea, Stor Strongsworn, Nizzai Wildstone, Luna, Neverwinter, PG,NPC ]
 subtitle: Padre di [[Astrea]]
 layout:
   - type: separator

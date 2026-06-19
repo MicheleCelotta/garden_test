@@ -40,8 +40,8 @@
     "chronicler-infobox": {
       "source": "github:MicheleCelotta/chronicler-infobox",
       "resolved": "https://github.com/MicheleCelotta/chronicler-infobox.git",
-      "commit": "cebcb5c28dd7d8a70071b683c7a8fc933f02337c",
-      "installedAt": "2026-06-16T19:54:29.520Z"
+      "commit": "a2cacbd306ff1f3343e7c451e5f87abbd29df116",
+      "installedAt": "2026-06-17T19:18:38.066Z"
     },
     "citations": {
       "source": "github:quartz-community/citations",

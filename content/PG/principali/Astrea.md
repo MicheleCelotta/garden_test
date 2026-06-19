@@ -7,6 +7,7 @@ tags:
     Neverwinter,
     Tiefling,
     Tiefling Abissale,
+    Contadino,
     PG,
     Caotico buono,
     Nizzai Wildstone,

@@ -1,5 +1,5 @@
 ---
-tags: [ Astrea, Luna, Stor Strongsworn, Nizzai Wildstone, Neverwinter, PG ]
+tags: [ Astrea, Luna, Stor Strongsworn, Nizzai Wildstone, Neverwinter, PG,NPC ]
 image: [ [ Nizzai Wildstone_Madre_Astrea.png, Nizzai Wildstone ] ]
 subtitle: Madre di [[Astrea]]
 layout:
