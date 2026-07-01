@@ -1,5 +1,5 @@
 ---
-tags: [ Ilmater, divinità ]
+tags: [ Ilmater, divinità, Siddih ]
 image: [ [ Ilmater.jpg, Ilmater ] ]
 Soprannomi: Il Dio Piangente, il Dio affranto
 Livello: Intermedio

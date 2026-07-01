@@ -1,5 +1,5 @@
 ---
-tags: [ Morwel, divinità ]
+tags: [ Morwel, divinità, Astrea ]
 image: [ [ Morwel.png, Morwel ] ]
 Soprannomi: Regina delle Stelle, Regina della Corte delle Stelle, Regina delle Fate
 Livello: Intermedio

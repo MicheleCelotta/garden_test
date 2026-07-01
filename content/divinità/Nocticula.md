@@ -1,5 +1,5 @@
 ---
-tags: [ Nocticula, demone,divinità ]
+tags: [ Nocticula, demone,divinità, Astrea ]
 image: [ [ Nocticula.jpg, Nocticula ] ]
 Soprannomi: Nosta Signora dell'Ombra, Signora della Notte
 Livello: Intermedio
